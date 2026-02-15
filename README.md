@@ -5,12 +5,19 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 This project performs basic arithmetic operations like addition, subtraction, multiplication, division, percentage, clear, and delete.
 
 🚀 Features
+
 ✅ Perform basic arithmetic operations (+, -, *, /)
+
 ✅ Percentage calculation (%)
+
 ✅ Clear all input (AC)
+
 ✅ Delete last character (DEL)
+
 ✅ Prevent multiple operators in a row
+
 ✅ Clean and responsive UI
+
 ✅ Real-time input display
 
 🛠️ Technologies Used
@@ -19,11 +26,15 @@ CSS3 – Styling
 JavaScript  – Logic and functionality
 
 📂 Project Structure
+
 calculator/
 │
 ├── index.html      # Main HTML structure
+
 ├── style.css       # Styling file
+
 └── app.js          # JavaScript logic
+
 
 🧠 How It Works
 Numbers are appended to the display when clicked.
@@ -34,9 +45,13 @@ DEL removes the last entered character.
 Input validation prevents invalid expressions.
 
 💻 How to Run the Project
+
 Download or clone the repository.
+
 Open the project folder.
+
 Open index.html in your browser.
+
 That’s it 🎉
 
 📸 Preview
